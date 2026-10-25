@@ -40,7 +40,7 @@ const projects = [
       "An online store project planned with Laravel 12, React, Sanctum authentication, and MySQL.",
     tags: ["React", "Tailwind CSS", "Rest API", "Redux"],
     type: "Front-end project",
-    image: "/AllPiq.png",
+    image: "/Allpiq.png",
     sourceCode: "https://github.com/Nada-Gaber02/AllPiq",
     liveDemo: "https://nada-gaber02.github.io/AllPiq/#/Login",
     accent: "project-green",
